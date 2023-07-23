@@ -10,3 +10,4 @@ The final setup will look like this:
 - BTT EBB36 CAN Head
 - Core mechanic from Voron V0.2r1 with Kirigami bed mount
 - Extruder and Hotend from Bambu Lab X1C in a custom Voron Mini-Stealthburner housing
+- Housing and power supply from the Flashforge Adventurer 3

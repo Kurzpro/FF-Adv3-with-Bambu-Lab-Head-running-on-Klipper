@@ -9,5 +9,5 @@ The final setup will look like this:
 - BTT Touch Display 35SPI
 - BTT EBB36 CAN Head
 - Core mechanic from Voron V0.2r1 with Kirigami bed mount
-- Extruder and Hotend from Bambu Lab X1C in a custom Voron Mini-Stealthburner housing
+- Extruder and Hotend from Bambu Lab X1C in a forged custom Voron Mini-Stealthburner
 - Housing and power supply from the Flashforge Adventurer 3
